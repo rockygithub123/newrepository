@@ -16,5 +16,10 @@ public class StaticAndNonStatic {
     public  void ok()
     {
         System.out.println(a1+a1);
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+
+        }
     }
+
 }
